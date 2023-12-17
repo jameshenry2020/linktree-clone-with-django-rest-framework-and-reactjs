@@ -1,0 +1,10 @@
+[
+    {"name":"Facebook", "icon":"fb"},
+    {"name":"Twitter", "icon":"tw"},
+    {"name":"Istagram", "icon":"ig"},
+    {"name":"Amazon", "icon":"am"},
+    {"name":"Discord", "icon":"dc"},
+    {"name":"Github", "icon":"gt"},
+    {"name":"Youtube", "icon":"yh"},
+    {"name":"LinkedIn", "icon":"lk"}
+]
